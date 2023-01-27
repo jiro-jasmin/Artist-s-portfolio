@@ -12,7 +12,7 @@ Moreoever, there is a custom admin panel to access the database made with Kirby 
 Kirby is a light-weight CMS which perfectly fits this type of project using LAMP stack,  
 with no SQL database for more simplicity and less weight!  
   
-> Special thanks to the client Fabiola Amaudric who allowed me to publish the source code of this project (without the content data) ✨  
+> Special thanks to the client Fabiola Amaudric who allowed me to publish the source code of this project ✨ (I deleted the content data though)  
   
 ---  
   
