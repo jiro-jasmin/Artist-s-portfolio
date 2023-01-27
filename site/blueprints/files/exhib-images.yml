@@ -1,0 +1,10 @@
+title: Images
+
+fields:
+  alt:
+    label: Alternative Text, description de l'image
+    type: text
+  legend:
+    label: Légendes
+    type: textarea
+    size: small

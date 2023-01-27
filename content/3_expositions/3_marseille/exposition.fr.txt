@@ -1,0 +1,72 @@
+Title: Marseille
+
+----
+
+Text: 
+
+----
+
+Redirectiontext: 
+
+----
+
+Month: janvier - février
+
+----
+
+Year: 2022
+
+----
+
+Location: Marseille
+
+----
+
+Exhibtype: collective
+
+----
+
+Excerpt: 
+
+----
+
+Maintext:
+
+Exposition collective regroupant quatre artistes aux pratiques variées, quatre ressentis en tant qu’habitant ou visiteur de Marseille.
+Le côté bouillonnant, hybride et survolté de la ville se traduit par des propositions allant du délicat dessin au pastel sur papier à l’installation monumentale de tissu peint suspendu aux poutres de la charpente de l’espace d’exposition.
+
+Les peintures sont réalisées sur toiles libres ou posée à
+même l’aspérité du mur, suspendues par des clous à la surface.
+A fleur de mur.
+Elles jouent avec la géométrie de l’espace, ses lignes de construction.
+Flottantes surfaces souples et brillantes aux jeux de couleurs contrastées, elles sont joyeuses et joueuses.
+
+22/01 – 22/02 2022 aux ateliers Transvaal, rue du Transvaal à Marseille.
+
+----
+
+Title2: Légendes
+
+----
+
+Asidetext:
+
+*Struggle*, 2021, technique mixte sur toile
+35 x 19 cm
+(violet)
+
+*Essaim*, 2021, acrylique sur coton découpé
+250 x 100 cm
+(grand jaune)
+
+*Micmac*, 2021, technique mixte sur toile
+150 x 130 cm
+(vert)
+
+*La bonne étoile*, 2021, acrylique sur toile
+130 x 100 cm
+(rouge)
+
+----
+
+Uuid: RfzCuKsUB53YiqtH

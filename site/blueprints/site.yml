@@ -1,0 +1,18 @@
+title: Fabiola Amaudric du Chaffaut
+
+tabs:
+  content:
+    icon: text
+    label: Contenu
+    sections:
+      drafts:
+        type: pages
+        status: drafts
+      unlisted:
+        type: pages
+        status: unlisted
+      published:
+        type: pages
+        status: listed
+        
+  seotab: seo

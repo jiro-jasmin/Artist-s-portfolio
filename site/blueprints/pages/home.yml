@@ -1,0 +1,26 @@
+title: Accueil
+icon: 💋
+
+columns:
+  main:
+    sections:
+      cover:
+        label: Forme mouvante
+        template: shape
+        type: files
+        layout: cards
+        min: 1
+        max: 1
+        required: required
+        help: dimensions idéales de l'image pour le rebond marche = 240px x 160px (si + grand il faut les mêmes proportions, car le code redimensionne automatiquement l'image pour la faire rentrer dans ces dimensions là)
+        query: page.images
+      gallery:
+        label: Les images qui défilent
+        template: images
+        layout: cards
+        type: files
+        min: 3
+        max: 5
+        query: page.images
+        help: entre 3 et 5 images maximum de moins de 8Mo chacune!
+

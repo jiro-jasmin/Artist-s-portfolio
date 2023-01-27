@@ -1,0 +1,14 @@
+Title: Error 404 - Page not found
+
+----
+
+Text:
+
+**Sorry!**
+
+The page you are looking for may have been removed, had its name changed or is temporarily unavailable.
+Please check again the URL address.
+
+----
+
+Redirectiontext: Go back to homepage

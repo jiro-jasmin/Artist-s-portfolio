@@ -1,0 +1,38 @@
+title: Bio
+icon: 😎
+
+tabs:
+  content:
+    icon: text
+    label: Contenu
+    columns:
+      main:
+        width: 2/3
+        sections:
+          fields:
+            type: fields
+            fields:
+              title1:
+                  label: Titre
+                  type: text
+              text:
+                type: textarea
+                size: huge
+              title2:
+                  label: Titre de la sous-partie
+                  type: text
+              asidetext:
+                  label: Texte de la sous-partie
+                  type: textarea
+                  size: medium
+      sidebar:
+        width: 1/3
+        sections:
+          files:
+            type: files
+            template: images
+            layout: cards
+            max: 1
+
+  seotab: seo
+

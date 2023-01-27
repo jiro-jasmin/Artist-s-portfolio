@@ -1,0 +1,58 @@
+Title: Jouer un peu
+
+----
+
+Month: avril - mai
+
+----
+
+Year: 2022
+
+----
+
+Location: Marseille
+
+----
+
+Exhibtype: solo
+
+----
+
+Excerpt: 
+
+----
+
+Maintext:
+
+Bigarrées  est un adjectif qui se prête particulièrement bien aux œuvres de Fabiola Amaudric du Chaffaut. Tout d’abord par l’explosion joyeuse de couleurs qui déborde des peintures jusqu’à l’espace, mais aussi par la composition de chaque pièce, proposant un mélange de matériaux disparates, de techniques et de formes. Le contraste se présente dans tous ses états, coloré à première vue, puis dans les tracés, libres et géométriques voire industriels. Ce dernier aspect déborde également dans les outils utilisés qu’il s’agisse d’œillets métalliques, de chaînes ou de bâches.
+
+Ludique, aussi vient à l’esprit. Faisant preuve de poésie et d’autodérision, les peintures de Fabiola Amaudric du Chaffaut se détachent du mur traditionnel, prennent du volume pour investir l’espace tout en évoquant des formes populaires issues de l’enfance et deviennent ainsi damiers, marelles, morpions, cerfs-volants. Cerfs-volants qui se veulent aussi drapeaux, manifestes de la liberté de l’artiste dans ses expérimentations qui n’ont pas vocation à entrer dans la norme.
+ 
+Espace enfin, qui revient sous plusieurs aspects. Il est pluriel, puisqu’il s’agit de l’envisager au sein même de l’œuvre, puis de recontextualiser celle-ci dans l’espace de l’exposition. En conflit ou non, les rapports varient et existent, ensemble. Le corps est en jeu, celui de l’artiste, qui pense peintures et dessins de la même manière, avec pour différence l’engagement gestuel selon les formats. Celui du spectateur, aussi, dont les trajectoires sont marquées par les débordements des œuvres et par leur matérialité.
+Avec cette exposition, Fabiola Amaudric du Chaffaut propose une immersion dans son univers pictural chargé de couleurs, de sens et d’humour.
+
+Exposition du 27 avril au 22 mai 2022 à Buropolis, Marseille.
+
+----
+
+Title2: Légendes
+
+----
+
+Asidetext:
+
+*Nuit blanche*, 2022, technique sur coton et chaîne, 180 x 350 cm.
+*Knightclubbing*, 2021, technique mixte sur coton, 130 x 120 cm.
+*Dessins sans titre*, 2020-2021, technique mixte sur papier, 42 x 29,7 cm.
+*Sous les pavés, les étoiles*, 2022, acrylique et pastel à l’huile sur coton, 260 x 50 cm.
+*R.I.P* 2020, 2020, acrylique sur toile, 160 x 150 cm.
+*Jouer un peu*, 2022, acrylique sur coton, 260 x 350 cm.
+*Dessins sans titre*, 2020-2021, technique mixte sur papier, 42 x 29,7 cm.
+*Micmac*, 2021, technique mixte sur toile, 150 x 130 cm.
+*La bonne étoile*, 2021, acrylique sur toile, 130 x 100 cm.
+*Flying object 01 & 02*, 2022, acrylique sur textile technique, env. 150 x 100 cm.
+*Cerfs-volants*, réalisés en collaboration avec la designeuse Edda Rabold.
+
+----
+
+Uuid: Z8Shore6ACGJhuGY

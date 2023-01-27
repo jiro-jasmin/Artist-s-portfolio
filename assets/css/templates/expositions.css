@@ -1,0 +1,133 @@
+/* Global display */
+
+.projects-menu {
+    height: unset !important;
+    overflow: hidden !important;
+    gap: 25px;
+    font-family: 'DINdong', Roboto, 'sans-serif';
+    font-size: 1.5em;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+
+.projects-menu li {
+    text-align: center;
+}
+
+.projects-menu a {
+    padding: 10px 0;
+}
+
+.exhib-img {
+    opacity: 0;
+    transition: all .6s ease-in-out;
+    pointer-events: none;
+}
+
+.display {
+    opacity: 1;
+    transition: all .6s ease-in-out;
+}
+
+small {
+    opacity: .5;
+}
+
+/* Moving shape */
+
+.default {
+    display: none;
+}
+
+/* MEDIA QUERIES */
+/* Desktops: large screen */
+@media only screen and (min-width: 1250px) {
+    .exhib-img {
+        max-width: 60vw !important;
+    }
+}
+
+/* Desktops: intermediate screen */
+@media only screen and (min-width: 1100px) and (max-width: 1249px) {
+    .exhib-img {
+        max-width: 55vw !important;
+    }
+}
+
+/* Desktops: standard */
+@media only screen and (min-width: 992px) {
+    .exhib-img {
+        position: fixed;
+        top: 0;
+        max-width: 50vw;
+        max-height: 100vh;
+    }
+
+    .default {
+        display: flex;
+        position: fixed;
+        top: 20%;
+        left: 60%;
+    }
+
+    .projects-menu {
+        position: static !important;
+    }
+}
+
+/* Tablets & mobile phones */
+@media only screen and (max-width: 991px) {
+    .projects-menu {
+        flex-wrap: wrap;
+        flex-direction: column !important;
+        justify-content: space-between !important;
+        height: 80vh !important;
+    }
+
+    .exhib-img {
+        position: fixed;
+        top: 325px;
+        max-height: 90vh;
+        width: 90vw;
+        transform: translate(0, -50%);
+        z-index: -1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .exhib-img {
+        filter: opacity(60%);
+    }
+
+    .projects-menu li {
+        margin: 5px 10px !important;
+    }
+
+}
+
+/* Mobile phones x */
+@media only screen and (max-width: 479px) {
+    .projects-menu {
+        flex-direction: column !important;
+    }
+}
+
+/* Height */
+@media only screen and (max-height: 450px) {
+    .projects-menu {
+        font-size: 1.2rem !important;
+    }
+}
+
+@media only screen and (max-height: 450px) and (max-width: 991px) {
+    .exhib-img {
+        position: fixed;
+        top: 220px;
+        max-height: none;
+    }
+
+    .projects-menu {
+        gap: 5px;
+    }
+}

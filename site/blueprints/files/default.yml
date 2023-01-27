@@ -1,0 +1,9 @@
+title: Images
+
+fields:
+  alt:
+    label: Alternative Text, description de l'image
+    type: text
+  title:
+    label: Titre, qui apparaît lorsque la souris reste sur l'image
+    type: text

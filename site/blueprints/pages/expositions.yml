@@ -1,0 +1,35 @@
+title: Expositions
+icon: 📅
+
+tabs:
+  content:
+    icon: text
+    label: Contenu
+    sections:
+      drafts:
+        headline: Brouillons
+        type: pages
+        layout: list
+        template: exposition
+        text: "{{ page.title }}"
+        info: "{{ page.category }}"
+        status: drafts
+        help: Pour publier ces pages "brouillons", clique sur les points de suspension à droite > "Change status" > "Public".
+        image:
+          ratio: 4/5
+          cover: true
+
+      published:
+        headline: Mis en ligne
+        type: pages
+        layout: cards
+        template: exposition
+        text: "{{ page.title }}"
+        info: "{{ page.category }}"
+        status: published
+        limit: 15
+        image:
+          ratio: 4/5
+          cover: true
+
+  seotab: seo

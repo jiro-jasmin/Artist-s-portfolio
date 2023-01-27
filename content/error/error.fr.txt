@@ -1,0 +1,18 @@
+Title: Erreur 404 - Page non trouvée
+
+----
+
+Text:
+
+**Désolé!**
+ 
+La page que vous cherchez a peut-être été supprimée, a changé de nom, ou bien est temporairement indisponible. Nous sommes navrés!
+Merci de vérifier l'adresse URL.
+
+----
+
+Redirectiontext: Retourner à la page d'accueil
+
+----
+
+Uuid: qhQe8N7AwVAYdMkx

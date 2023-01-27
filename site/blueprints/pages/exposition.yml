@@ -1,0 +1,66 @@
+title: Exposition
+
+columns:
+    main:
+      width: 2/3
+      sections:
+        fields:
+          type: fields
+          fields:
+            month:
+              width: 1/2
+              label: Mois
+              type: text
+              required: true
+              help: si c'est sur plusieurs mois, par exemple "février - mars"
+            year:
+              width: 1/2
+              label: Année
+              type: number
+              min: 1990
+              max: 2999
+              required: true
+            location:
+              width: 1/2
+              label: Lieu
+              type: text
+              required: true
+              help: tu peux choisir si tu préfères mettre juste la ville et/ou le lieu d'expo ici
+            exhibtype:
+              width: 1/2
+              label: Type d'exposition
+              type: select
+              options: 
+                - solo
+                - collective
+              required: true
+            excerpt:
+              label: Résumé
+              type: textarea
+              size: small
+            maintext:
+              label: Texte principal
+              type: textarea
+              size: huge
+            title2:
+              label: Titre de la sous-partie
+              type: text
+            asidetext:
+              label: Texte de la sous-partie
+              type: textarea
+              size: medium
+    sidebar:
+      width: 1/3
+      sections: 
+        gallery:
+          headline: Photos de l'exposition
+          size: tiny
+          info: "{{ file.dimensions }}"
+          type: files
+          help: Merci d'ajouter 1 à 15 photos de moins de 8Mo chacune!
+          min: 1
+          max: 15
+          layout: cards
+          template: exhib-images
+          image:
+            ratio: 1/1

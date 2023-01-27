@@ -1,0 +1,196 @@
+/* Global display */
+
+h1 {
+    padding-top: 10px;
+    position: fixed;
+    top: 85px;
+    background-color: white;
+}
+
+aside, .content {
+    line-height: 1.7em;
+}
+
+h5 {
+    font-weight: initial;
+    font-size: 1rem;
+    margin: 0;
+}
+
+figcaption p {
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+
+/* Text of the exhib */
+
+.exhib-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.excerpt {
+    color: rgb(131, 131, 131);
+    /* font-weight: lighter; */
+    font-style: italic;
+}
+
+.main-text,
+.excerpt {
+    text-align: justify;
+}
+
+
+/* Pagination */
+
+footer {
+    padding-bottom: 5px;
+}
+
+.pagination {
+    margin-bottom: 0 !important;
+}
+
+.exhib-menu {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+    font-family: 'DINdong', Roboto, 'sans-serif';
+    font-size: 1.2em;
+}
+
+.exhib-menu li {
+    text-align: center;
+    transition: transform .6s;
+    padding-top: 20px;
+}
+
+.exhib-menu li:hover {
+    transform: translateY(-15%);
+    transition: transform .6s;
+}
+
+.exhib-menu a {
+    padding: 10px;
+}
+
+/* Pictures of the exhib */
+
+.content figure img {
+    display: flex;
+    justify-content: center;
+}
+
+.content figure img {
+    max-width: 100%;
+    max-height: 100vh;
+}
+
+.content a:hover {
+    cursor: zoom-in;
+}
+
+.content {
+    margin-bottom: 20px;
+}
+
+/* MEDIA QUERIES */
+/* Desktops */
+@media only screen and (min-width: 992px) {
+    main {
+        grid-template-areas:
+            "title content"
+            "aside content"
+            "footer footer";
+    }
+
+    footer {
+        grid-area: footer;
+    }
+
+    aside {
+        line-height: 2em;
+        margin-top: 50px;
+    }
+
+
+    h1 {
+        width: 430px;
+        text-align: left;
+    }
+
+    .exhib-text {
+        padding: 0 5px;
+    }
+
+    .current {
+        transform: translateY(-15%);
+    }
+
+    .exhib-menu li {
+        width: 200px;
+    }
+
+}
+
+/* Tablets & mobile phones */
+@media only screen and (max-width: 991px) {
+    h1 {
+        top: 90px;
+        width: 95%;
+    }
+    .content {
+        margin-top: 50px;
+    }
+    .exhib-menu {
+        flex-direction: column;
+    }
+    .exhib-menu li {
+        padding: 10px 0;
+    }
+    .current {
+        opacity: .6;
+        transform: translateY(0) !important;
+    }
+    figcaption p {
+        text-align: center;
+    }
+}
+
+/* Phones with larger screens */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    h1 {
+        top: 70px;
+    }
+}
+
+/* Mobile phones */
+@media only screen and (max-width: 479px) {
+    h1 {
+        top: 55px;
+    }
+    .content figure img {
+        width: 100%;
+    }
+}
+
+/* Height */
+@media only screen and (max-height: 450px) and (min-width: 992px) {
+    aside {
+        width: 370px;
+    }
+
+    h1 {
+        width: 370px;
+    }
+}
+
+@media only screen and (max-height: 450px) {
+    h1 {
+        top: 60px;
+        padding: 0;
+        font-size: 1.7em;
+    }
+}

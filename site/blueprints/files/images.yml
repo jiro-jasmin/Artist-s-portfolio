@@ -1,0 +1,10 @@
+title: Images
+
+fields:
+  alt:
+    label: Alternative Text, description de l'image pour les malvoyants (contient les mots-clefs)
+    type: text
+  title:
+    label: Titre, qui apparaît lorsque la souris reste sur l'image
+    type: text
+
