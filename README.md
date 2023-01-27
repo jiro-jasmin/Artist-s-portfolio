@@ -39,7 +39,7 @@ Alternatively, click here to watch a video demo:
 - Custom admin panel made with Kirby CMS
 - Manageable SEO with Kirby Meta plugin
 
-## How to navigate in this repository 🧐
+## 🧐 How to navigate in this repository
 
 The *content* folder contains, as it implies, the textual content and media content (here, images) of the project. Each file is linked with a php page automatically; please check this quick illustration I made:  
 
@@ -61,7 +61,7 @@ You will then be able to create an account to access the custom admin panel
 
 I have deleted most of the content data in this repository, so please add more to have a closer experience with the project on production.  
   
-## About this project  
+## 📰 About this project  
   
 Please note that I have made this project during an internship in summer 2022, with a manager who helped me take design decisions. This was my very first professional project with an actual client. 👨‍💼  
 It has been produced according to functional and technical specifications agreed with the client, under an agile method using Trello, Zoom and IRL meetings.  
