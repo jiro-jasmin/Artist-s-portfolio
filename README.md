@@ -4,7 +4,7 @@ Hi 👋 Jiro Jasmin here.
 This project is a web portfolio of a contemporary visual French artist 🎨  
 This is a professional project actually on production!  
   
-Find a funny animation on homepage (inspired by 2000s boucing DVD waiting screen!),  
+Find a funny animation on homepage (inspired by 2000s boucing DVD logo screensaver!),  
 scroll through the work of the artist with a dynamic scrollable menu,  
 and check their latest exhibitions!  
 You can change the language of the website by clicking on the very bottom-left button!  
