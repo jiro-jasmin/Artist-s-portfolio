@@ -16,7 +16,7 @@ with no SQL database for more simplicity and less weight!
   
 ---  
   
-🚀 **[Click here to access to the online website](fabiolaamaudricduchaffaut.fr/)** 🚀  
+🚀 **[Click here to access to the online website](https://fabiolaamaudricduchaffaut.fr/)** 🚀  
    
 Alternatively, click here to watch a video demo:  
  
