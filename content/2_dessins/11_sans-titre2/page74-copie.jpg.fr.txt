@@ -1,9 +1,0 @@
-Sort: 2
-
-----
-
-Uuid: VsBUUNgtcPwuQG10
-
-----
-
-Template: gallery-image

@@ -1,9 +1,0 @@
-Sort: 1
-
-----
-
-Uuid: lDd48r5XAbhY33rH
-
-----
-
-Template: gallery-image

@@ -1,9 +1,0 @@
-Sort: 2
-
-----
-
-Uuid: g79c4XSjLcgxKbKx
-
-----
-
-Template: gallery-image

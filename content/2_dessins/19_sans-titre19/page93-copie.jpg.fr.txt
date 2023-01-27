@@ -1,9 +1,0 @@
-Sort: 1
-
-----
-
-Uuid: KlKaps1s2EBQB2wg
-
-----
-
-Template: gallery-image

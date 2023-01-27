@@ -1,9 +1,0 @@
-Sort: 3
-
-----
-
-Uuid: 45ovtyti0qyzG99z
-
-----
-
-Template: gallery-image

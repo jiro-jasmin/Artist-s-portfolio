@@ -1,9 +1,0 @@
-Sort: 1
-
-----
-
-Uuid: zVEcnEt4czwUUtoB
-
-----
-
-Template: gallery-image

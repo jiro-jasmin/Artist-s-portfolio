@@ -1,9 +1,0 @@
-Sort: 1
-
-----
-
-Uuid: XJgKky9LtBlTsfAz
-
-----
-
-Template: gallery-image

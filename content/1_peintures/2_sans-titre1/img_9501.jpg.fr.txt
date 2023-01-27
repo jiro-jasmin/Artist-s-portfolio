@@ -1,9 +1,0 @@
-Sort: 4
-
-----
-
-Uuid: k1lCv13YdCfdQQoc
-
-----
-
-Template: gallery-image

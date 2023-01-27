@@ -1,9 +1,0 @@
-Sort: 1
-
-----
-
-Uuid: 2l3nTh0IXiG6ADPM
-
-----
-
-Template: gallery-image

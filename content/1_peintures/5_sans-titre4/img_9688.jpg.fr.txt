@@ -1,9 +1,0 @@
-Sort: 1
-
-----
-
-Uuid: dGOLbsuoij8kX9A9
-
-----
-
-Template: gallery-image
